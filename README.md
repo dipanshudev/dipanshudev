@@ -148,5 +148,5 @@ Thanks for reading about me. You can connect with me on ..
 <!-- section - social media icons -->
 
 <p align='center'>
-<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=ombharatiya.visitor-badge">
+<img align='center' src="https://visitor-badge.glitch.me/badge?page_id=dipanshudev.visitor-badge">
  <p/>
