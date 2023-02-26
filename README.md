@@ -65,13 +65,13 @@ Java . Python . GoLang . JavaScript . C++
 
 ## On the job .. 💯
 
-> Software Development Engineer - [**Swiggy**](https://bytes.swiggy.com/)  ⭐
+<!-- > Software Development Engineer - [**Swiggy**](https://bytes.swiggy.com/)  ⭐
 
 > Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
 
 > Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
 
-> Software Development & Research Engineer Intern - [**ISRO**](https://www.isro.gov.in)
+> Software Development & Research Engineer Intern - [**ISRO**](https://www.isro.gov.in) -->
 
 
 <!-- section - job details -->
@@ -95,7 +95,7 @@ Java . Python . GoLang . JavaScript . C++
 
 ## Check my blogs & posts .. ✨
 
-- [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
+<!-- - [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
 
 - [When to choose NoSQL over SQL?](https://dev.to/ombharatiya/when-to-choose-nosql-over-sql-536p)
 
@@ -111,7 +111,7 @@ Java . Python . GoLang . JavaScript . C++
 
 - [Heros of Chandrayaan-2 Launch Mission ISRO](https://www.linkedin.com/posts/activity-6559739007759151104-jbOu)
 
-- [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1)
+- [A blog on Microsoft AI bot Ruuh](https://medium.com/datadriveninvestor/can-an-ai-bot-be-my-girlfriend-a-blog-on-our-desi-ai-chatbot-ruuh-39b9c98c93a1) -->
 
 <!-- section - blogs -->
 
@@ -138,10 +138,10 @@ Thanks for reading about me. You can connect with me on ..
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
+<!-- [![linkedin ombharatiya][1.1]][1]
 [![github ombharatiya][2.1]][2]
 <!-- [![twitter ombharatiya][3.1]][3] -->
-[![medium ombharatiya][4.1]][4]
+<!-- [![medium ombharatiya][4.1]][4] --> -->
 <!-- [![stackoverflow om-bharatiya][5.1]][5] -->
 <!-- [![dev to ombharatiya][6.1]][6] -->
 
