@@ -39,13 +39,8 @@ Hi, I'm Dipanshu — a **software engineer** building high-quality, scalable sys
 <!-- section - skills -->
 
 ## I work on .. 💻
-
-Java Spring Boot . Django . React.js . Microservices . Docker . AWS Services
-
-DynamoDB . Postgresql . MongoDB . Redis . Prometheus
-
-Java . Python . GoLang . JavaScript . C++
-
+ReactJs, Redux, NodeJs, Express Js, Javascript, Typescript, MySQL, DynamoDB, AWS . Prometheus
+Cloud Services, Docker, Kubernetes, Microservices Architecture, Event-driven architecture, DynamoDB, and Redis 
 <!-- section - skills -->
 
 <!-- section - job details -->
