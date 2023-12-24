@@ -7,41 +7,28 @@
 
 [1.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-linkedin-48.png (linkedin icon with padding)
 [2.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-github-48.png (github icon with padding)
-<!-- [3.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-twitter-48.png (twitter icon with padding) -->
 [4.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-medium-new-48.png (medium icon with padding)
-<!-- [5.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-stack-overflow-48.png (stackoverflow icon with padding) -->
-<!-- [6.1]: https://github.com/ombharatiya/ombharatiya/blob/master/assets/icons/icons8-dev-48.png (dev icon with padding) -->
 
 <!-- links to my social media accounts -->
 
 [1]: https://www.linkedin.com/in/dipanshudev
 [2]: https://github.com/dipanshudev
-<!-- [3]: https://www.twitter.com/ombharatiya -->
 [4]: https://medium.com/@dipanshudev
-<!-- [5]: https://stackoverflow.com/users/8454203/om-bharatiya -->
-<!-- [6]: http://dev.to/ombharatiya -->
-
-<!-- Don't remove this --- https://github.com/ombharatiya -->
 
 
+# Building experiences - Software Engineer & Learner!
 
 
-<!-- section - intro -->
-<!--#### **SDE** @ **HashedIn | Microsoft | ISRO** -->
-
-# ❤ to Build - Software Engineer & Enthusiast!
-
-
-Hi, I'm Om — a **software engineer** building some real stuff through code & beer. My working principle is learning by doing. Always up for a discussion on  softwares, business, entrepreneurship, philosophy & socialpreneurship. ✌💖
+Hi, I'm Dipanshu — a **software engineer** building high-quality, scalable systems to provide good user experience. I develop and maintain quality software applications, ensuring code quality and adhering to best practices. I learn by doing it practically. Always up for a discussion on  software engineering, user experience, entrepreneurship, and innovation. ✌💖
 
 <!-- section - intro -->
 
 <!-- section - social media icons -->
 
-[![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
+[![linkedin dipanshudev][1.1]][1]
+[![github dipanshudev][2.1]][2]
 <!-- [![twitter ombharatiya][3.1]][3] -->
-[![medium ombharatiya][4.1]][4]
+<!-- [![medium ombharatiya][4.1]][4] -->
 <!-- [![stackoverflow om-bharatiya][5.1]][5] -->
 <!-- [![dev to ombharatiya][6.1]][6] -->
 
@@ -65,14 +52,7 @@ Java . Python . GoLang . JavaScript . C++
 
 ## On the job .. 💯
 
-<!-- > Software Development Engineer - [**Swiggy**](https://bytes.swiggy.com/)  ⭐
-
-> Software Engineer - [**HashedIn**](https://hashedin.com)  ⭐
-
-> Microsoft Student Partner & AI Rockstar - [**Microsoft**](https://studentambassadors.microsoft.com/en-us)
-
-> Software Development & Research Engineer Intern - [**ISRO**](https://www.isro.gov.in) -->
-
+> Software Engineer - [**Scaleupally**](https://scaleupally.io/)  ⭐
 
 <!-- section - job details -->
 
@@ -81,19 +61,19 @@ Java . Python . GoLang . JavaScript . C++
 
 ## My Absolute Favorites .. 💖
 
-🦄 I love _CODING_
+👨‍💻 I love coding
 
-👨‍💻 I _BUILD_ resilient apps & services
+👨‍💻 I Build experiences for users and developer
 
-📰 Reading & writing _TECH BLOGS_
+📰 Reading Tech Blogs
 
-🍕 _HACKATHONS_ & problem solving
+🍕 Problem solving and learning
 
 <!-- section - interests -->
 
 <!-- section - blogs -->
 
-## Check my blogs & posts .. ✨
+<!-- ## Check my blogs & posts .. ✨ -->
 
 <!-- - [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
 
@@ -115,20 +95,6 @@ Java . Python . GoLang . JavaScript . C++
 
 <!-- section - blogs -->
 
-## How To Make a Similar Home Page for your GitHub ? 😎
-
-1. Fork this repo.
-
-2. Edit the README.md file with your info.
-
-3. Rename your repo to your github username in settings tab.(for example my username is ombharatiya)
-
-4. You made it!
-
-Don't forget to add a Star ⭐ on this repo if you liked it & follow me for interesting stuff. 
-
-More details are on this blog link: [Building GitHub Profile using README.md](https://medium.com/@ombharatiya/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b)
-
 
 
 
@@ -138,12 +104,8 @@ Thanks for reading about me. You can connect with me on ..
 
 <!-- section - social media icons -->
 
-<!-- [![linkedin ombharatiya][1.1]][1]
-[![github ombharatiya][2.1]][2]
-<!-- [![twitter ombharatiya][3.1]][3] -->
-<!-- [![medium ombharatiya][4.1]][4] --> -->
-<!-- [![stackoverflow om-bharatiya][5.1]][5] -->
-<!-- [![dev to ombharatiya][6.1]][6] -->
+[![linkedin dipanshudev][1.1]][1]
+[![github dipanshudev][2.1]][2]
 
 <!-- section - social media icons -->
 
