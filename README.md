@@ -48,6 +48,7 @@ Cloud Services, Docker, Kubernetes, Microservices Architecture, Event-driven arc
 ## On the job .. 💯
 
 > Senior Software Engineer - Freelancer/Remote contract
+
 > Senior Software Engineer - [**Scaleupally**](https://scaleupally.io/)  ⭐
 <!-- section - job details -->
 
