@@ -39,7 +39,7 @@ Hi, I'm Dipanshu — a **software engineer** building high-quality, scalable sys
 <!-- section - skills -->
 
 ## I work on .. 💻
-ReactJs, Redux, NodeJs, Express Js, Javascript, Typescript, MySQL, DynamoDB, AWS . Prometheus
+ReactJs, Redux, NodeJs, Express Js, Javascript, Typescript, MySQL, DynamoDB, AWS
 Cloud Services, Docker, Kubernetes, Microservices Architecture, Event-driven architecture, DynamoDB, and Redis 
 <!-- section - skills -->
 
