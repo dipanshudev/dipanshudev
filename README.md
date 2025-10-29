@@ -47,6 +47,8 @@ Cloud Services, Docker, Kubernetes, Microservices Architecture, Event-driven arc
 
 ## On the job .. 💯
 
+> Lead Engineer - [**Treiva**](https://treiva.com/)
+
 > Senior Software Engineer - Freelancer/Remote contract
 
 > Senior Software Engineer - [**Scaleupally**](https://scaleupally.io/)  ⭐
